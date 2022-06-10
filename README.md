@@ -69,12 +69,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Pragya1904/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya1904&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Pragya1904 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/Pragya1904/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pragya1904&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya1904&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -85,7 +85,7 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/Pragya1904/github-readme-activity-graph"><img alt="Pragya's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/Pragya1904/github-readme-activity-graph"><img alt="Pragya's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pragya1904&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 ------
