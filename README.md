@@ -9,9 +9,9 @@
        alt="snake" /></a>
 </div>
 
-<div>
+
 [![@pragya's Holopin board](https://holopin.me/pragya)](https://holopin.io/@pragya)
-</div>
+
 <details>
   <summary>☎️ contact me</summary>
 <div>
