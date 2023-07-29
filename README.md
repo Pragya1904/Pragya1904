@@ -35,7 +35,7 @@
          alt="Pragya" height="30"/></a>
 <!--       <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a> -->
+         alt="P" height="30"/></a> -->
       <br>
     </p>
   </samp>
@@ -77,7 +77,7 @@
         <p align="center">
           <a href="https://github.com/Pragya1904/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pragya1904&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya1904&theme=gruvbox&hide_border=true" />
+          <img width="49.5%"height="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya1904&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
