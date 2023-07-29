@@ -77,7 +77,7 @@
         <p align="center">
           <a href="https://github.com/Pragya1904/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pragya1904&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%"height="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya1904&theme=gruvbox&hide_border=true" />
+          <img width="49.5%"height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya1904&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
