@@ -1,18 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pragya Ravindrakumar</h1>
-<a href="https://1999azzar.github.io/1999AZZAR/" target="_blank">
-    <img src="/resources/grid-snake.svg" alt="Azzar Logo"
-         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
-</a>
+
 <h4 align="center">An engineering student at Sir M. Visvesvaraya Institute of Technology</h4>
 </div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 [![@pragya's Holopin board](https://holopin.me/pragya)](https://holopin.io/@pragya)
 
