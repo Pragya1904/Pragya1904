@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pragya Ravindrakumar</h1>
+<h1 align="center">Hi, I'm Pragya Ravindrakumar</h1>
 
 <h4 align="center">An engineering student at Sir M. Visvesvaraya Institute of Technology</h4>
 </div>
